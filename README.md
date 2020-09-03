@@ -9,10 +9,6 @@
 
 - 👯 I’m looking to collaborate on firecracker and gvisor [firecracker](https://firecracker-microvm.github.io/)
 
-- 👨‍💻 All of my projects are available at [https://hidexir.github.io/project](https://hidexir.github.io/project)
-
-- 📝 I regulary write articles on [https://hidexir.github.io/blog](https://hidexir.github.io/blog)
-
 - 💬 Ask me about **Performance tuning, Micro service, Golang**
 
 - 📫 How to reach me **hidexir@gmail.com or twitter: @hidexir**
