@@ -36,7 +36,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/></p><p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidexir&layout=compact&hide=html" alt="hidexir" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidexir&show_icons=true" alt="hidexir" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidexir&layout=compact&hide=html" alt="hidexir" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hidexir&show_icons=true" alt="hidexir" />
 
 <p align="center">
 <a href="https://twitter.com/hidexir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hidexir" height="30" width="30" /></a>
