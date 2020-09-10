@@ -48,4 +48,5 @@
 
 # Career
 Software Engineer Internship at [@uuum](https://github.com/uuum) / [@abema](https://github.com/abema) / [@cyberagent](https://github.com/cyberagent) (2017-2019)
+
 Software Engineer at [@cyberagent](https://github.com/cyberagent) (2019-) [@fastmedia](https://github.com/fastmedia) (2020-)
