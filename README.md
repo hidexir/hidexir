@@ -45,3 +45,7 @@
 <a href="https://fb.com/hideaki.goto.33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hideaki.goto.33" height="30" width="30" /></a>
 <a href="https://medium.com/@hideakigoto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hideakigoto" height="30" width="30" /></a>
 </p>
+
+# Career
+Software Engineer Internship at @uuum / @abema / @cyberagent / @dena (2017-2019)
+Software Engineer at @cyberagent (2019-) @fastmedia (2020-)
